@@ -1,0 +1,7 @@
+Location;23
+Health;20
+Weapons;sword,3;great sword,7;strong potion,-20
+Magic;fire,5;ice,10
+Items;weak potion,-10
+Quests;true,true,true
+Enemies;true,false,false,false,false,false
