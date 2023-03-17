@@ -1,0 +1,6 @@
+checkout(java.lang.String id) - checkout still checks out a book if it's unavailable
+checkin(java.lang.String id) - checkin still checks in a book if it's already available
+search(java.lang.String searchTerm) - When searching it does not check the Last name attribute of the Book class
+add(Book b) - will add a book the same id's but will already instead increase id for added books
+remove(java.lang.String id) - does not remove book from collection
+getBook(java.lang.String id) - accepts grabbing book initialized with a empty String id
